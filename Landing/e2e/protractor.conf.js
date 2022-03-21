@@ -16,7 +16,7 @@ exports.config = {
     browserName: 'chrome'
   },
   directConnect: true,
-  baseUrl: 'http://http://zesp10tt2.herokuapp.com:5000/',
+  baseUrl: 'http://zesp10tt2.herokuapp.com:5000/',
   framework: 'jasmine',
   jasmineNodeOpts: {
     showColors: true,
