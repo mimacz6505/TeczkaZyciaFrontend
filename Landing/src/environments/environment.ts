@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'https://zesp10tt2.herokuapp.com'
+  apiUrl: 'https://zesp10tt2.herokuapp.com:8080'
 };
 
 /*
